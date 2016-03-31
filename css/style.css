@@ -1,0 +1,112 @@
+.fondo{
+    position: absolute;
+	left: 900px;
+	top: 70px;
+	color: white;
+}
+.fondo li{
+	list-style: none;
+}
+.verde{
+	width: 65px;
+	height: 30px;
+	text-align: center;
+	background-color: transparent;
+	color: #51AD50;
+	border: 1px solid #51AD50;
+	padding: 5px;
+	border-radius: 5px;
+	margin: 5px;
+}
+.amarillo{
+    width: 170px;
+	height: 40px;
+	background-color: #DBB243;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	text-align: center;
+}
+.amarillo a{
+	text-decoration: none;
+	color: white;
+}
+.naranjo{
+	width: 170px;
+	height: 40px;
+	background-color: #A36B24;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+	text-align: center;
+}
+.naranjo a{
+	text-decoration: none;
+	color: white;
+}
+
+.leter{
+	font-size: 40px;
+}
+*{
+	font-family: Tahoma;
+}
+.buscar {
+	font-size: 10px;
+	position: absolute;
+	left: 1000px;
+	top: 5px;
+	padding: 10px;
+}
+.lup a{
+	position: absolute;
+	left: 105px;
+	top: 12px;
+	color: #B0B0B0;
+	text-decoration: none;
+}
+.banner h4{
+	position: absolute;
+	left: 500px;
+	top: 10px;
+	color: #B0B0B0;
+}
+.peliculas{
+	background-color: #DBB243;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.lado{
+	position: absolute;
+	left: 100px;
+	top: 110px;
+}
+.rojo{
+	position: absolute;
+	left: 33%;
+	top: 43%;
+}
+.lorem h1,h5{
+	color: #BFBFBF;
+}
+.lorem h3{
+	color: #DB994B;
+}
+.get h6{
+	color: #A36B24;
+}
+.get h4{
+	color: #BFBFBF;
+}
+.creater{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.gris{
+	background-color: #C3C3C3;
+}
+.gris h5{
+	color: #A6A6A6;
+}
